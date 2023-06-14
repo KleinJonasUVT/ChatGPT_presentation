@@ -9,7 +9,8 @@ format:
     transition: slide
     scrollable: true
     smaller: false
-css: "styles.css"
+    embed-resources: true
+    self-contained: true
 editor: visual
 ---
 
@@ -22,7 +23,8 @@ editor: visual
 -   Bachelor EBE
 -   Master Marketing Analytics
 
-![](pictures/Jonas.png){.absolute style="position: absolute; top: 310px; width: 20%; height: 50%;"}
+![](https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Jonas.png){.absolute style="position: absolute; top: 310px; width: 20%; height: 50%;"}
+
 :::
 
 ::: column
@@ -32,7 +34,7 @@ editor: visual
 
 -   Master Marketing Analytics
 
-![](pictures/Matthijs.png){.absolute style="position: absolute; top: 310px; width: 22%; height: 50%;"}
+![](https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Matthijs.png){.absolute style="position: absolute; top: 310px; width: 22%; height: 50%;"}
 :::
 :::
 
@@ -59,24 +61,35 @@ editor: visual
 ## Example of predefined prompts
 
 **Prompt**
+<html>
+<head>
+    <style>
+        .container {
+            line-height: 1.5;
+            color: grey;
+            font-size: 20px;
+            font-style: italic;
+            border: 1px dashed black;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+[Insert text] <br>
+Create flashcards for studying based on the text above. Please make as many flashcards as you think are necessary. Use this structure:<br>
+<strong>Flashcard 1:</strong><br>
+Question: ...<br>
+Answer: ...'<br>
+    </div>
+</body>
+</html>
 
-::: flashcard
-\[Insert text\]
-
-Create flashcards for studying based on the text above. Please make as many flashcards as you think are necessary. Use this structure:
-
-'**Flashcard 1:**
-
-Question: ...
-
-Answer: ... '
-:::
 
 **Example**
 
-<iframe src="https://chat.openai.com/share/7fafa31a-e8eb-486d-9cfa-dfd51256370d" width="1000" height="630">
+<iframe src="https://chat.openai.com/share/7fafa31a-e8eb-486d-9cfa-dfd51256370d" width="1000" height="630" data-external="1"></iframe>
 
-</iframe>
 
 # Challenges that come with the use of ChatGPT in lectures
 
