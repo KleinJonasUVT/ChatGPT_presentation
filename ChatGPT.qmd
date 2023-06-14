@@ -1,0 +1,101 @@
+---
+title: "ChatGPT Applications in Education"
+author: "Jonas Klein & Matthijs van Gils"
+format: 
+  revealjs:
+    footer: "ChatGPT Applications in Education - Jonas Klein & Matthijs van Gils"
+    slide-number: true
+    controls: true
+    transition: slide
+    scrollable: true
+    smaller: false
+css: "styles.css"
+editor: visual
+---
+
+## Introduction
+
+::: columns
+::: column
+**Jonas Klein**
+
+-   Bachelor EBE
+-   Master Marketing Analytics
+
+![](Jonas.png){.absolute style="position: absolute; top: 310px; width: 20%; height: 50%;"}
+:::
+
+::: column
+**Matthijs van Gils**
+
+-   Bachelor ...
+
+-   Master Marketing Analytics
+
+    ![](Matthijs.png){.absolute style="position: absolute; top: 310px; width: 22%; height: 50%;"}
+:::
+:::
+
+## Overview
+
+-   How we (and other students) use ChatGPT during our studies
+-   Intergrating ChatGPT in Lectures
+-   Challenges that come with the use of ChatGPT in lectures
+
+# How we (and other students) use ChatGPT during our studies
+
+## Use cases
+
+-   ChatGPT as a platform for students to ask questions/Personalized and interactive support for students
+-   ChatGPT during studying (flashcards, ...)
+-   Facilitating Student Engagement and Collaboration
+
+# Integrating ChatGPT in Lectures
+
+## Integration
+
+-   Make a platform with predefined prompts.
+
+## Example of predefined prompts
+
+**Prompt**
+
+::: {.flashcard}
+[Insert text]
+
+Create flashcards for studying based on the text above. Please make as many flashcards as you think are necessary. Use this structure:
+
+'**Flashcard 1:**
+
+Question: ...
+
+Answer: ... '
+:::
+
+**Example**
+
+<iframe src="https://chat.openai.com/share/7fafa31a-e8eb-486d-9cfa-dfd51256370d" width="1000" height="630">
+
+</iframe>
+
+# Challenges that come with the use of ChatGPT in lectures
+
+## Challenges
+
+-   Addressing Assessment Challenges
+-   Practical Implementation and Teacher Support (students learn faster than teachers), there should be some guidance for teachers to incorporate AI tools.
+
+# Summary of Key Points
+
+-   Recap of possibilities and applications of ChatGPT.
+-   Benefits of incorporating AI tools in education.
+-   Emphasize thoughtful implementation.
+
+## Q&A and Discussion
+
+Are there any questions about the use of ChatGPT by students that you would like to ask?
+
+## Thank You
+
+-   Thanks for listening!
+-   Onze contactgegevens
