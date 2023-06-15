@@ -16,6 +16,19 @@ editor: visual
 
 ## Introduction
 
+<head>
+    <style>
+        .container {
+            line-height: 1.5;
+            color: grey;
+            font-size: 20px;
+            font-style: italic;
+            border: 1px dashed green;
+            padding: 10px;
+        }
+    </style>
+</head>
+
 ::: columns
 ::: column
 **Jonas Klein**
@@ -41,6 +54,7 @@ editor: visual
 ## Overview
 
 -   How we (and other students) use ChatGPT during our studies
+-   Other AI tools
 -   Intergrating ChatGPT in Lectures
 -   Challenges that come with the use of ChatGPT in lectures
 
@@ -48,47 +62,96 @@ editor: visual
 
 ## Use cases
 
--   ChatGPT as a platform for students to ask questions/Personalized and interactive support for students
--   ChatGPT during studying (flashcards, ...)
--   Facilitating Student Engagement and Collaboration
+-   24/7 personalized and interactive support for students
+-   Idea generation
+-   Summarizing articles
+-   Grammar and spelling checker
+-   Learn yourself new things
+-   Learning for exams (practice questions)
+
+## Example idea generation
+**Prompt**
+
+<div class="container">
+Propose three possible A/B tests to a webpage to increase customer engagement and click-through-rates
+</div>
+
+**Example**
+
+<iframe src="https://chat.openai.com/share/551935c7-7908-43b0-802d-02b8b9969dc5" width="1000" height="630" data-external="1"></iframe>
+
+## Example learning new things
+**Prompt**
+
+<div class="container">
+[Insert error code] <br>
+Why does this code not work with the following dataset:<br>
+[head(data)]
+</div>
+
+**Example**
+
+<iframe src="https://chat.openai.com/share/87ed7ac2-4dc2-49bd-9286-355d3e362df9" width="1000" height="630" data-external="1"></iframe>
+
+## Example learning for exams
+**Prompt**
+
+<div class="container">
+[Insert text] <br>
+Create flashcards for studying based on the text above. Please make as many flashcards as you think are necessary. Use this structure:<br>
+Flashcard 1:<br>
+Question: ...<br>
+Answer: ...'<br>
+</div>
+
+**Example**
+
+<iframe src="https://chat.openai.com/share/7fafa31a-e8eb-486d-9cfa-dfd51256370d" width="1000" height="630" data-external="1"></iframe>
+
+# Other AI tools
+
+## ChatPDF
+
+<iframe src="https://www.chatpdf.com/share/q1lLWeWYWlg60d3QCyN52" width="1000" height="630" data-external="1"></iframe>
+
+## Consensus.app
+<iframe src="https://consensus.app/" width="1000" height="630" data-external="1"></iframe>
+
+## Rapid development of other tools
+
 
 # Integrating ChatGPT in Lectures
 
 ## Integration
 
 -   Make a platform with predefined prompts.
+-   Learn students how to use ChatGPT for studying.
 
 ## Example of predefined prompts
 
-**Prompt**
-<html>
-<head>
-    <style>
-        .container {
-            line-height: 1.5;
-            color: grey;
-            font-size: 20px;
-            font-style: italic;
-            border: 1px dashed black;
-            padding: 10px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
+**Prompt:**
+
+<div class="container">
 [Insert text] <br>
 Create flashcards for studying based on the text above. Please make as many flashcards as you think are necessary. Use this structure:<br>
-<strong>Flashcard 1:</strong><br>
+Flashcard 1:<br>
 Question: ...<br>
 Answer: ...'<br>
-    </div>
-</body>
-</html>
+</div>
+<br>
 
+<div class="container">
+[Insert Text] <br>
+Summarize this text and make sure it covers these learning goals:<br> 
+[Insert learning goals of course]
+</div>
+<br>
 
-**Example**
-
-<iframe src="https://chat.openai.com/share/7fafa31a-e8eb-486d-9cfa-dfd51256370d" width="1000" height="630" data-external="1"></iframe>
+<div class="container">
+Act as a [Insert course profession]<br> 
+Give me an answer based on the following question taking on this role:<br>
+[Insert question]
+</div>
 
 
 # Challenges that come with the use of ChatGPT in lectures
@@ -96,13 +159,12 @@ Answer: ...'<br>
 ## Challenges
 
 -   Addressing Assessment Challenges
+-   Always double check!
 -   Practical Implementation and Teacher Support (students learn faster than teachers), there should be some guidance for teachers to incorporate AI tools.
 
-# Summary of Key Points
+# Conclusion
 
--   Recap of possibilities and applications of ChatGPT.
--   Benefits of incorporating AI tools in education.
--   Emphasize thoughtful implementation.
+ChatGPT is a helpfull tool that guides students, to learn faster and get their head around more complex stuf. Sneller werken, puur hulp, altijd scherp blijven. 
 
 ## Q&A and Discussion
 
@@ -110,5 +172,5 @@ Are there any questions about the use of ChatGPT by students that you would like
 
 ## Thank You
 
--   Thanks for listening!
+Thanks for listening!
 -   Onze contactgegevens
