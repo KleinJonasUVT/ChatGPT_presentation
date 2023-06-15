@@ -43,8 +43,7 @@ editor: visual
 ::: column
 **Matthijs van Gils**
 
--   Bachelor ...
-
+-   Bachelor Economics
 -   Master Marketing Analytics
 
 ![](https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Matthijs.png){.absolute style="position: absolute; top: 310px; width: 22%; height: 50%;"}
@@ -118,7 +117,7 @@ Answer: ...'<br>
 <iframe src="https://consensus.app/" width="1000" height="630" data-external="1"></iframe>
 
 ## Rapid development of other tools
-
+![](https://www.youtube.com/watch?v=IVTyLYupECI)
 
 # Integrating ChatGPT in Lectures
 
@@ -158,19 +157,38 @@ Give me an answer based on the following question taking on this role:<br>
 
 ## Challenges
 
--   Addressing Assessment Challenges
--   Always double check!
--   Practical Implementation and Teacher Support (students learn faster than teachers), there should be some guidance for teachers to incorporate AI tools.
+-   Assessment Challenges
+-   Always double check the output of ChatGPT!
+-   Practical Implementation and Teacher Support. Students learn faster than teachers (we were scared to say this), so there should be some guidance for teachers to incorporate AI tools.
 
 # Conclusion
 
-ChatGPT is a helpfull tool that guides students, to learn faster and get their head around more complex stuf. Sneller werken, puur hulp, altijd scherp blijven. 
+ChatGPT is a helpfull tool that guides students, to learn faster and get their head around more complex stuff, which should be embraces. However, students should be cautious when using ChatGPT and (luckily!) always still have to think for theirselfs.  
 
 ## Q&A and Discussion
 
 Are there any questions about the use of ChatGPT by students that you would like to ask?
 
-## Thank You
+## Thanks for listening! {.smaller}
+::: columns
+::: column
+**Jonas Klein**
 
-Thanks for listening!
--   Onze contactgegevens
+- LinkedIn: [Jonas Klein](https://www.linkedin.com/in/kleinjonas/)
+- j.b.klein@tilburguniversity.edu
+
+![](https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Jonas.png){.absolute style="position: absolute; top: 310px; width: 20%; height: 50%;"}
+
+:::
+
+::: column
+**Matthijs van Gils**
+
+- LinkedIn: [Matthijs van Gils](https://www.linkedin.com/in/matthijs-van-gils-468755150/)
+- M.vanGils_2@tilburguniversity.edu
+
+![](https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Matthijs.png){.absolute style="position: absolute; top: 310px; width: 22%; height: 50%;"}
+:::
+:::
+
+
