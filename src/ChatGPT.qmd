@@ -162,7 +162,7 @@ Summarize this text and make sure it covers these learning goals:<br>
 
 <div class="container">
 Act as a [Insert course profession]<br> 
-Give me an answer based on the following question taking on this role:<br>
+Give me an answer on the following question taking on this role:<br>
 [Insert question]
 </div>
 <br>
