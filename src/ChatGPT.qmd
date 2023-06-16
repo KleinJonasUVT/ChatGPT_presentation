@@ -110,19 +110,28 @@ Answer: ...'<br>
 # Other AI tools
 
 ## ChatPDF
+![](https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/ChatPDF.png){.absolute style="position: absolute; width: 100%; height: 80%;"}
 
-<iframe src="https://www.chatpdf.com/c/HJO0ZomZqYknod6cRmeIj" width="1000" height="630" data-external="1"></iframe>
+## ChatPDF
+<iframe src="https://www.chatpdf.com/c/UVjN1DrheIKPDwT4QbKmO" width= 100% height= 100% data-external="1"></iframe>
 
 ## Consensus.app
-<iframe src="https://consensus.app/search/" width="1000" height="630" data-external="1"></iframe>
+<iframe src="https://consensus.app" width="1000" height="630" data-external="1"></iframe>
 
 ## Consensus.app
-![](https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Consensus.png){.absolute style="position: absolute; width: 100%; height: 100%;"}
+![](https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Consensus.png){.absolute style="position: absolute; width: 100%; height: 80%;"}
 
 ## Rapid development of other tools
-<video controls start="3">
+<video id="my-video" controls>
   <source src="https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Photoshop.mp4" type="video/mp4">
 </video>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const video = document.getElementById('my-video');
+    video.currentTime = 36; // Start from the third second
+  });
+</script>
 
 # Integrating ChatGPT in Lectures
 
@@ -156,7 +165,13 @@ Act as a [Insert course profession]<br>
 Give me an answer based on the following question taking on this role:<br>
 [Insert question]
 </div>
+<br>
 
+<div class="container">
+[Insert error code] <br>
+Why does this code not work with the following dataset:<br>
+[head(data)]
+</div>
 
 # Challenges that come with the use of ChatGPT in lectures
 
@@ -164,13 +179,13 @@ Give me an answer based on the following question taking on this role:<br>
 
 -   Assessment Challenges
 -   Always double check the output of ChatGPT!
--   Practical Implementation and Teacher Support. Students learn faster than teachers (we were scared to say this), so there should be some guidance for teachers to incorporate AI tools.
+-   Practical implementation and teacher support. Students learn faster than teachers (we were scared to say this), so there should be some guidance for teachers to incorporate AI tools.
 
 # Conclusion
 
-ChatGPT is a helpfull tool that guides students, to learn faster and get their head around more complex stuff, which should be embraces. However, students should be cautious when using ChatGPT and (luckily!) always still have to think for theirselfs.  
+ChatGPT is a helpfull tool that guides students, to learn faster and get their head around more complex stuff, which should be embraced. However, students should be cautious when using ChatGPT and (luckily!) always still have to think for theirselfs.  
 
-## Q&A and Discussion
+# Q&A and Discussion
 
 Are there any questions about the use of ChatGPT by students that you would like to ask?
 
