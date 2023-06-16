@@ -183,7 +183,7 @@ Why does this code not work with the following dataset:<br>
 
 # Conclusion
 
-ChatGPT is a helpfull tool that guides students, to learn faster and get their head around more complex stuff, which should be embraced. However, students should be cautious when using ChatGPT and (luckily!) always still have to think for theirselfs.  
+ChatGPT is a helpfull tool that guides students, to learn faster and get their head around more complex stuff, which should be embraced. However, students should be cautious when using ChatGPT and (luckily!) always still have to think for themselves.  
 
 # Q&A and Discussion
 
