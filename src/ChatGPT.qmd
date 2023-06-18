@@ -133,6 +133,19 @@ Answer: ...'<br>
   });
 </script>
 
+## More advance tools
+### Noteable plug-in
+<iframe src="https://chat.openai.com/share/870d14ea-dd09-486e-9e9f-4606edfbc460" width="1000" height="630" data-external="1"></iframe>
+
+<iframe src="https://app.noteable.io/public-output-collection/1e1482c0-b52a-4f1f-9a63-d9cb061bd36f" width="1000" height="630" data-external="1"></iframe>
+
+<iframe src="https://app.noteable.io/published/36e6b49d-4f4e-42eb-ad2a-de9a4b2d36de/Ebay_reviews_analysis" width="1000" height="630" data-external="1"></iframe>
+
+### Bardeen.ai
+<video id="my-video" controls>
+  <source src="https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Bardeen.mp4" type="video/mp4">
+</video>
+
 # Integrating ChatGPT in Lectures
 
 ## Integration
