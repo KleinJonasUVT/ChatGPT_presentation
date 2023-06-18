@@ -181,6 +181,21 @@ Why does this code not work with the following dataset:<br>
 -   Always double check the output of ChatGPT!
 -   Practical implementation and teacher support. Students learn faster than teachers (we were scared to say this), so there should be some guidance for teachers to incorporate AI tools.
 
+## Example
+**Prompt**
+
+<div class="container">
+You are assigning website users to two different landing pages (A vs B) based on their previous interactions with the website. One group thus sees version B and one group sees version A and you are comparing the number of sales to the two different groups with each other. <br>
+The way this study is done allows the analyst to recover an unbiased estimate of the true causal effect of landing page B versus landing page A.
+<br>
+
+Is this statement true or false?
+</div>
+
+**Example**
+
+<iframe src="https://chat.openai.com/share/da0d6a12-7aff-4e07-9c28-965eaca2aaf4" width="1000" height="630" data-external="1"></iframe>
+
 # Conclusion
 
 ChatGPT is a helpfull tool that guides students, to learn faster and get their head around more complex stuff, which should be embraced. However, students should be cautious when using ChatGPT and (luckily!) always still have to think for themselves.  
