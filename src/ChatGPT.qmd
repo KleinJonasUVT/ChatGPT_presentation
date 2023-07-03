@@ -17,7 +17,9 @@ editor: visual
 ## Introduction
 
 <head>
-    <style>
+
+```{=html}
+<style>
         .container {
             line-height: 1.5;
             color: grey;
@@ -27,6 +29,7 @@ editor: visual
             padding: 10px;
         }
     </style>
+```
 </head>
 
 ::: columns
@@ -37,16 +40,15 @@ editor: visual
 -   Master Marketing Analytics
 
 ![](https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Jonas.png){.absolute style="position: absolute; top: 310px; width: 20%; height: 50%;"}
-
 :::
 
 ::: column
-**Matthijs van Gils**
+**Marijn Bransen**
 
--   Bachelor Economics
+-   Bachelor Business-Economics
 -   Master Marketing Analytics
 
-![](https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Matthijs.png){.absolute style="position: absolute; top: 310px; width: 22%; height: 50%;"}
+![](https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Marijn.png){.absolute style="position: absolute; top: 310px; width: 22%; height: 50%;"}
 :::
 :::
 
@@ -69,82 +71,104 @@ editor: visual
 -   Learning for exams (practice questions)
 
 ## Example idea generation
+
 **Prompt**
 
-<div class="container">
+::: container
 Propose three possible A/B tests to a webpage to increase customer engagement and click-through-rates
-</div>
+:::
 
 **Example**
 
-<iframe src="https://chat.openai.com/share/551935c7-7908-43b0-802d-02b8b9969dc5" width="1000" height="630" data-external="1"></iframe>
+<iframe src="https://chat.openai.com/share/551935c7-7908-43b0-802d-02b8b9969dc5" width="1000" height="630" data-external="1">
+
+</iframe>
 
 ## Example learning new things
+
 **Prompt**
 
-<div class="container">
-[Insert error code] <br>
-Why does this code not work with the following dataset:<br>
-[head(data)]
-</div>
+::: container
+\[Insert error code\] <br> Why does this code not work with the following dataset:<br> \[head(data)\]
+:::
 
 **Example**
 
-<iframe src="https://chat.openai.com/share/87ed7ac2-4dc2-49bd-9286-355d3e362df9" width="1000" height="630" data-external="1"></iframe>
+<iframe src="https://chat.openai.com/share/87ed7ac2-4dc2-49bd-9286-355d3e362df9" width="1000" height="630" data-external="1">
+
+</iframe>
 
 ## Example learning for exams
+
 **Prompt**
 
-<div class="container">
-[Insert text] <br>
-Create flashcards for studying based on the text above. Please make as many flashcards as you think are necessary. Use this structure:<br>
-Flashcard 1:<br>
-Question: ...<br>
-Answer: ...'<br>
-</div>
+::: container
+\[Insert text\] <br> Create flashcards for studying based on the text above. Please make as many flashcards as you think are necessary. Use this structure:<br> Flashcard 1:<br> Question: ...<br> Answer: ...'<br>
+:::
 
 **Example**
 
-<iframe src="https://chat.openai.com/share/7fafa31a-e8eb-486d-9cfa-dfd51256370d" width="1000" height="630" data-external="1"></iframe>
+<iframe src="https://chat.openai.com/share/7fafa31a-e8eb-486d-9cfa-dfd51256370d" width="1000" height="630" data-external="1">
+
+</iframe>
 
 # Other AI tools
 
 ## ChatPDF
+
 ![](https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/ChatPDF.png){.absolute style="position: absolute; width: 100%; height: 80%;"}
 
 ## ChatPDF
-<iframe src="https://www.chatpdf.com/share/JX0iuPpIKzTnb4RP7Klok" width= 100% height= 100% data-external="1"></iframe>
+
+<iframe src="https://www.chatpdf.com/share/JX0iuPpIKzTnb4RP7Klok" width="100%" height="100%" data-external="1">
+
+</iframe>
 
 ## Consensus.app
-<iframe src="https://consensus.app" width="1000" height="630" data-external="1"></iframe>
+
+<iframe src="https://consensus.app" width="1000" height="630" data-external="1">
+
+</iframe>
 
 ## Consensus.app
+
 ![](https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Consensus.png){.absolute style="position: absolute; width: 100%; height: 80%;"}
 
 ## Rapid development of other tools
+
 <video id="my-video" controls>
-  <source src="https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Photoshop.mp4" type="video/mp4">
+
+<source src="https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Photoshop.mp4" type="video/mp4">
+
 </video>
 
+```{=html}
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     const video = document.getElementById('my-video');
     video.currentTime = 36; // Start from the third second
   });
 </script>
-
+```
 ## More advance tools
-- Noteable plug-in
-- Bardeen.ai
+
+-   Noteable plug-in
+-   Bardeen.ai
 
 ## Noteable plug-in
+
 <video id="my-video" controls>
-  <source src="https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Noteable.mp4" type="video/mp4">
+
+<source src="https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Noteable.mp4" type="video/mp4">
+
 </video>
 
 ## Bardeen.ai
+
 <video id="my-video" controls>
-  <source src="https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Bardeen.mp4" type="video/mp4">
+
+<source src="https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Bardeen.mp4" type="video/mp4">
+
 </video>
 
 # Integrating ChatGPT in Lectures
@@ -158,34 +182,27 @@ Answer: ...'<br>
 
 **Prompt:**
 
-<div class="container">
-[Insert text] <br>
-Create flashcards for studying based on the text above. Please make as many flashcards as you think are necessary. Use this structure:<br>
-Flashcard 1:<br>
-Question: ...<br>
-Answer: ...'<br>
-</div>
+::: container
+\[Insert text\] <br> Create flashcards for studying based on the text above. Please make as many flashcards as you think are necessary. Use this structure:<br> Flashcard 1:<br> Question: ...<br> Answer: ...'<br>
+:::
+
 <br>
 
-<div class="container">
-[Insert Text] <br>
-Summarize this text and make sure it covers these learning goals:<br> 
-[Insert learning goals of course]
-</div>
+::: container
+\[Insert Text\] <br> Summarize this text and make sure it covers these learning goals:<br> \[Insert learning goals of course\]
+:::
+
 <br>
 
-<div class="container">
-Act as a [Insert course profession]<br> 
-Give me an answer on the following question taking on this role:<br>
-[Insert question]
-</div>
+::: container
+Act as a \[Insert course profession\]<br> Give me an answer on the following question taking on this role:<br> \[Insert question\]
+:::
+
 <br>
 
-<div class="container">
-[Insert error code] <br>
-Why does this code not work with the following dataset:<br>
-[head(data)]
-</div>
+::: container
+\[Insert error code\] <br> Why does this code not work with the following dataset:<br> \[head(data)\]
+:::
 
 # Challenges that come with the use of ChatGPT in lectures
 
@@ -196,48 +213,47 @@ Why does this code not work with the following dataset:<br>
 -   Practical implementation and teacher support. Students learn faster than teachers (we were scared to say this), so there should be some guidance for teachers to incorporate AI tools.
 
 ## Example
+
 **Prompt**
 
-<div class="container">
-You are assigning website users to two different landing pages (A vs B) based on their previous interactions with the website. One group thus sees version B and one group sees version A and you are comparing the number of sales to the two different groups with each other. <br>
-The way this study is done allows the analyst to recover an unbiased estimate of the true causal effect of landing page B versus landing page A.
-<br>
+::: container
+You are assigning website users to two different landing pages (A vs B) based on their previous interactions with the website. One group thus sees version B and one group sees version A and you are comparing the number of sales to the two different groups with each other. <br> The way this study is done allows the analyst to recover an unbiased estimate of the true causal effect of landing page B versus landing page A. <br>
 
 Is this statement true or false?
-</div>
+:::
 
 **Example**
 
-<iframe src="https://chat.openai.com/share/da0d6a12-7aff-4e07-9c28-965eaca2aaf4" width="1000" height="630" data-external="1"></iframe>
+<iframe src="https://chat.openai.com/share/da0d6a12-7aff-4e07-9c28-965eaca2aaf4" width="1000" height="630" data-external="1">
+
+</iframe>
 
 # Conclusion
 
-ChatGPT is a helpfull tool that guides students, to learn faster and get their head around more complex stuff, which should be embraced. However, students should be cautious when using ChatGPT and (luckily!) always still have to think for themselves.  
+ChatGPT is a helpfull tool that guides students, to learn faster and get their head around more complex stuff, which should be embraced. However, students should be cautious when using ChatGPT and (luckily!) always still have to think for themselves.
 
 # Q&A and Discussion
 
 Are there any questions about the use of ChatGPT by students that you would like to ask?
 
 ## Thanks for listening! {.smaller}
+
 ::: columns
 ::: column
 **Jonas Klein**
 
-- LinkedIn: [Jonas Klein](https://www.linkedin.com/in/kleinjonas/)
-- j.b.klein@tilburguniversity.edu
+-   LinkedIn: [Jonas Klein](https://www.linkedin.com/in/kleinjonas/)
+-   j.b.klein\@tilburguniversity.edu
 
 ![](https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Jonas.png){.absolute style="position: absolute; top: 310px; width: 20%; height: 50%;"}
-
 :::
 
 ::: column
-**Matthijs van Gils**
+**Marijn Bransen**
 
-- LinkedIn: [Matthijs van Gils](https://www.linkedin.com/in/matthijs-van-gils-468755150/)
-- M.vanGils_2@tilburguniversity.edu
+-   LinkedIn: [Marijn Bransen](https://www.linkedin.com/in/marijn-bransen-8b79211a3/)
+-   M.Bransen@tilburguniversity.edu
 
 ![](https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Matthijs.png){.absolute style="position: absolute; top: 310px; width: 22%; height: 50%;"}
 :::
 :::
-
-
