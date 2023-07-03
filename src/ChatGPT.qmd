@@ -1,9 +1,9 @@
 ---
 title: "ChatGPT Applications in Education"
-author: "Jonas Klein & Matthijs van Gils"
+author: "Jonas Klein & Marijn Bransen"
 format: 
   revealjs:
-    footer: "ChatGPT Applications in Education - Jonas Klein & Matthijs van Gils"
+    footer: "ChatGPT Applications in Education - Jonas Klein & Marijn Bransen"
     slide-number: true
     controls: true
     transition: slide
@@ -45,10 +45,10 @@ editor: visual
 ::: column
 **Marijn Bransen**
 
--   Bachelor Business-Economics
+-   Bachelor BE
 -   Master Marketing Analytics
 
-![](https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Marijn.png){.absolute style="position: absolute; top: 310px; width: 22%; height: 50%;"}
+![](https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Marijn.png){.absolute style="position: absolute; top: 310px; width: 20%; height: 50%;"}
 :::
 :::
 
@@ -254,6 +254,6 @@ Are there any questions about the use of ChatGPT by students that you would like
 -   LinkedIn: [Marijn Bransen](https://www.linkedin.com/in/marijn-bransen-8b79211a3/)
 -   M.Bransen@tilburguniversity.edu
 
-![](https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Matthijs.png){.absolute style="position: absolute; top: 310px; width: 22%; height: 50%;"}
+![](https://raw.githubusercontent.com/KleinJonasUVT/ChatGPT_presentation/main/src/pictures/Marijn.png){.absolute style="position: absolute; top: 310px; width: 20%; height: 50%;"}
 :::
 :::
